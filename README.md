@@ -60,10 +60,16 @@ I also enjoy documenting my learning journey, solving logical challenges, and co
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img height="170" src="https://github-readme-stats-ruddy-tau-63.vercel.app/api?username=walasse-dev&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats-ruddy-tau-63.vercel.app/api/top-langs/?username=walasse-dev&layout=compact&theme=tokyonight" />
-</p>
+<table border="0">
+  <tr>
+    <td>
+      <img height="170" src="https://github-readme-drab-gamma.vercel.app/api?username=walasse-dev&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=14400" />
+    </td>
+    <td>
+      <img height="170" src="https://github-readme-drab-gamma.vercel.app/api/top-langs/?username=walasse-dev&layout=compact&theme=tokyonight&cache_seconds=14400" />
+    </td>
+  </tr>
+</table>
 
 ---
 
