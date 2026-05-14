@@ -3,20 +3,17 @@
 🚀 **Software Engineering Student | Java & Spring Boot**  
 🇧🇷 Brazil
 
-I am a software engineering student committed to mastering the fundamentals of backend development.
+I'm a software engineering student committed to mastering the fundamentals of backend development.
 
-I am currently focused on transitioning from pure programming logic to developing RESTful APIs using Spring Boot and Hibernate.
+Currently, I'm focused on transitioning from pure programming logic to developing RESTful APIs using Spring Boot and Hibernate.
 
-I also enjoy documenting my learning journey, solving logical challenges, and collaborating on academic group projects to strengthen my foundation in software design and teamwork..
+I'm studying at Jala University and Instituto Algar.
 
 ---
 
 ## 🌐 Where to find me
 
 <p align="left">
-  <a href="https://github.com/walasse-dev">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColo" />
-  </a>
   <a href="https://instagram.com/walasse.dev">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
@@ -70,10 +67,3 @@ I also enjoy documenting my learning journey, solving logical challenges, and co
     </td>
   </tr>
 </table>
-
----
-
-## 🚀 Philosophy
-
-> _"Elegant code isn’t code that no one can understand,
->  but code that seems obvious once you’ve read it."_
