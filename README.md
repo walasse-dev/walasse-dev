@@ -14,9 +14,6 @@ I'm studying at Jala University and Instituto Algar.
 ## 🌐 Where to find me
 
 <p align="left">
-  <a href="https://instagram.com/walasse.dev">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
   <a href="https://www.linkedin.com/in/walasse-costa-349552356/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
