@@ -49,18 +49,3 @@ I'm studying at Jala University and Instituto Algar.
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-white?style=for-the-badge&logo=postman)
-
----
-
-## 📊 GitHub Stats
-
-<table border="0">
-  <tr>
-    <td>
-      <img height="170" src="https://github-readme-drab-gamma.vercel.app/api?username=walasse-dev&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=14400" />
-    </td>
-    <td>
-      <img height="170" src="https://github-readme-drab-gamma.vercel.app/api/top-langs/?username=walasse-dev&layout=compact&theme=tokyonight&cache_seconds=14400" />
-    </td>
-  </tr>
-</table>
